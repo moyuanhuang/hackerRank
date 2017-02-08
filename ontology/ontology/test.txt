@@ -1,0 +1,12 @@
+3
+Fruit ( Apple Banana )
+5
+Fruit: Apple
+Fruit: Appl
+Fruit: App
+Fruit: Ap
+Fruit: A
+3
+Fruit A
+Fruit App
+Fruit Apple
